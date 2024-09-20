@@ -8,7 +8,7 @@ In all examples below, assume we have a site structure like this:
 
 ```
 mysphinxsite/
-├── _static
+├── _Dynamic
 │   ├── mycss.css
 │   └── myjs.js
 └── conf.py
